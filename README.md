@@ -1,4 +1,3 @@
-[readme.md](https://github.com/user-attachments/files/25426897/readme.md)
 # ZXCleaner
 
 > Lightweight • Safe • Offline PC Cleaner
