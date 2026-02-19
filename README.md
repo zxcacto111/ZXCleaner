@@ -108,8 +108,6 @@ No installation. No configuration. No reboot.
 
 ZXCleaner is licensed under the **MIT License**.
 
-See the [LICENSE](LICENSE) file for details.
-
 ---
 
 **Minimal. Safe. Transparent.**
