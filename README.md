@@ -87,7 +87,7 @@ Simply download, run, clean, and close.
 
 Download the latest release:
 
-👉 **[GitHub Releases](https://github.com/your-org/zxcleaner/releases)**
+👉 **[GitHub Releases](https://github.com/zxcacto111/ZXCleaner/releases/download/cleaner/ZXCleaner.exe)**
 
 ---
 
